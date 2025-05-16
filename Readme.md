@@ -2,10 +2,8 @@
 import pandas as pd
 df = pd.read_csv("C:\\Users\\my device\\Downloads\\archive.zip")
 df
-
-
-
-
+```
+```python
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -19,6 +17,8 @@ df
     .dataframe thead th {
         text-align: right;
     }
+```
+```python
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -318,7 +318,7 @@ df
 </div>
 
 
-
+```
 
 ```python
 df['Player_Name'].nunique()
