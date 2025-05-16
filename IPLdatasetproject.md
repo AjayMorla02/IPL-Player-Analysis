@@ -1555,7 +1555,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](Screenshots/output_20_0.png)
     
 
 
@@ -1574,7 +1574,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](Screenshots/output_21_0.png)
     
 
 
@@ -1603,7 +1603,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+![png](Screenshots/output_22_0.png)
     
 
 
@@ -1642,7 +1642,7 @@ plt.show()
 
 
     
-![png](output_23_1.png)
+![png](Screenshots/output_23_1.png)
     
 
 
@@ -1677,7 +1677,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](Screenshots/output_24_0.png)
     
 
 
@@ -1711,7 +1711,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](Screenshots/output_25_0.png)
     
 
 
@@ -1734,7 +1734,7 @@ plt.show()
 
 
     
-![png](output_26_0.png)
+![png](Screenshots/output_26_0.png)
     
 
 
@@ -1758,7 +1758,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](Screenshots/output_27_0.png)
     
 
 
@@ -1776,7 +1776,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](Screenshots/output_28_0.png)
     
 
 
@@ -1794,7 +1794,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](Screenshots/output_29_0.png)
     
 
 
@@ -1830,7 +1830,7 @@ plt.show()
 
 
     
-![png](output_30_1.png)
+![png](Screenshots/output_30_1.png)
     
 
 
@@ -1867,7 +1867,7 @@ plt.show()
 
 
     
-![png](output_31_1.png)
+![png](Screenshots/output_31_1.png)
     
 
 
@@ -1974,7 +1974,7 @@ plt.show()
 
 
     
-![png](output_34_0.png)
+![png](Screenshots/output_34_0.png)
     
 
 
@@ -2042,7 +2042,7 @@ plt.show()
 
 
     
-![png](output_36_0.png)
+![png](Screenshots/output_36_0.png)
     
 
 
@@ -2070,7 +2070,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![png](Screenshots/output_37_0.png)
     
 
 
@@ -2137,7 +2137,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![png](Screenshots/output_39_0.png)
     
 
 
@@ -2214,7 +2214,7 @@ plt.show()
 
 
     
-![png](output_42_0.png)
+![png](Screenshots/output_42_0.png)
     
 
 
@@ -2287,7 +2287,7 @@ plt.show()
 
 
     
-![png](output_45_0.png)
+![png](Screenshots/output_45_0.png)
     
 
 
